@@ -19,6 +19,7 @@
     "istanbul": "~0.2.4"
   },
   "dependencies": {
-    "request": "~2.33.0"
+    "request": "~2.33.0",
+    "oauth": "~0.9.11"
   }
 }
